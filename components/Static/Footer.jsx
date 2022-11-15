@@ -55,12 +55,12 @@ export default function Footer() {
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/nUdr5CDZs5" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Support Server
                                 </a>
                             </div>
                             <div>
-                                <a href=" https://bit.ly/3PHDjyC" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/oauth2/authorize?client_id=1041678362290163743&scope=bot&permissions=8&redirect_uri=https%3A%2F%2Fflaxis.tk%2Fthx" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Invite Bot
                                 </a>
                             </div>
