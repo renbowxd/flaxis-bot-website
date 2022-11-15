@@ -3,7 +3,6 @@ import { useEffect, useState, Fragment, useRef } from "react";
 import { useRouter } from "next/router";
 import { Menu, Transition } from '@headlessui/react';
 import { useTheme } from 'next-themes';
-
 const MobileNavbar = ({ open, setOpen, NavItems }) => {
     const router = useRouter();
     return <>
@@ -166,7 +165,7 @@ const Header = ({ $, NavItems }) => {
                                 </Menu.Items>
                             </Transition>
                         </Menu>
-                        <Link href="https://bit.ly/3PHDjyC">
+                        <Link href="https://discord.com/oauth2/authorize?client_id=1041678362290163743&scope=bot&permissions=8&redirect_uri=https%3A%2F%2Fflaxis.tk%2Fthx">
                             <a className="w-auto flex items-center justify-center shadow-lg gap-x-2 shadow-amber-600/20 rounded-xl py-2.5 font-medium px-7 bg-gradient-to-tl from-amber-500 to-amber-700 text-white  hover:opacity-80 transition duration-200">
                                Invite
                             </a>
