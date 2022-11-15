@@ -68,23 +68,16 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
                             <div>
-                                <Link href="https://discord.gg/ST89uArTdh">
+                                <Link href="https://discord.gg/nUdr5CDZs5">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/1umutda/MusicBot">
+                                <Link href="https://github.com/renbowxd/flaxis-bot-website">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-github`} /> GitHub 
-                                    </a>
-                                </Link>
-                            </div>
-                            <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-youtube`} /> YouTube 
                                     </a>
                                 </Link>
                             </div>
