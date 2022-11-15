@@ -44,7 +44,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Add Bot",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028603968&scope=applications.commands%20bot",
+      href: "https://discord.com/oauth2/authorize?client_id=1041678362290163743&scope=bot&permissions=8&redirect_uri=https%3A%2F%2Fflaxis.tk%2Fthx",
     },
        {
       link: true,
